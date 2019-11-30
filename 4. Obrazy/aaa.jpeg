@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="pl" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>HTML5 – Wikipedia, wolna encyklopedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeń","luty","marzec","kwiecień","maj","czerwiec","lipiec","sierpień","wrzesień","październik","listopad","grudzień"],"wgMonthNamesShort":["","sty","lut","mar","kwi","maj","cze","lip","sie","wrz","paź","lis","gru"],"wgRequestId":"XeHQAApAIC4AAF5F4doAAABM","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"HTML5","wgTitle":"HTML5","wgCurRevisionId":57663596,"wgRevisionId":57663596,"wgArticleId":1011222,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["HTML"],"wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"HTML5","wgRelevantArticleId":1011222,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":57663596,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"polski","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2053","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.small-references":"ready","ext.gadget.main-page-css":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":
+"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.flaggedRevs.advanced","ext.gadget.ll-script-loader","ext.gadget.maps","ext.gadget.heading-icons","ext.gadget.refToolbar","ext.gadget.edit-buttons","ext.gadget.edit-summaries","ext.gadget.edit-first-section","ext.gadget.edit-summary-warning","ext.gadget.wikibugs","ext.gadget.nuxTBKeys","ext.gadget.enhanced-upload",
+"ext.gadget.map-toggler","ext.gadget.ReferenceTooltips","ext.gadget.narrowFootnoteColumns","ext.gadget.WDsearch","ext.gadget.main-page-js","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@i6mxc",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"pl"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=pl&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=ext.gadget.main-page-css%2Csmall-references&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=pl&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.5"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/pl.m.wikipedia.org/wiki/HTML5"/>
+<link rel="alternate" type="application/x-wiki" title="Edytuj" href="/w/index.php?title=HTML5&amp;action=edit"/>
+<link rel="edit" title="Edytuj" href="/w/index.php?title=HTML5&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (pl)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//pl.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://pl.wikipedia.org/wiki/HTML5"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-HTML5 rootpage-HTML5 skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="pl">HTML5</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Z Wikipedii, wolnej encyklopedii</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Przejdź do nawigacji</a>
+		<a class="mw-jump-link" href="#p-search">Przejdź do wyszukiwania</a>
+		<div id="mw-content-text" lang="pl" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox">
+
+<tbody><tr style="text-align:center; color:black; background-color:#EAECF0; border-bottom:1px solid #aaa;">
+<td colspan="2" class="naglowek" style="padding:0;">
+<table cellpadding="4" cellspacing="0" style="width:100% !important; display:table; margin:0px; background-color:transparent;">
+
+
+<tbody><tr>
+<td style="font-size:120%; vertical-align:middle;"><span style="font-weight:bold;">HTML 5</span>
+</td></tr>
+</tbody></table>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center; font-size:95%; background-color:white; border-top:1px solid #eee; border:1px solid #aaa;"><a href="/wiki/Plik:HTML5_logo_and_wordmark.svg" class="image"><img alt="Ikona formatu" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/100px-HTML5_logo_and_wordmark.svg.png" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/150px-HTML5_logo_and_wordmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png 2x" data-file-width="512" data-file-height="512" /></a>
+</td></tr>
+<tr>
+<td style="text-align:center; font-size:95%; background-color:white; border-top:1px solid #eee; border:1px solid #aaa;" colspan="2"><a href="/wiki/Plik:HTML5_Firefox_video_controls.png" class="image"><img alt="ilustracja" src="//upload.wikimedia.org/wikipedia/commons/9/9a/HTML5_Firefox_video_controls.png" decoding="async" width="240" height="135" data-file-width="213" data-file-height="120" /></a>
+</td></tr>
+<tr>
+<td style="background: #eeeeee; vertical-align: top;">Rozszerzenia pliku
+</td>
+<td>.html, .htm
+</td></tr>
+<tr>
+<td style="background: #eeeeee; vertical-align: top;"><a href="/wiki/Typ_MIME" title="Typ MIME">Typ MIME</a>
+</td>
+<td>text/html
+</td></tr>
+<tr>
+<td style="background: #eeeeee; vertical-align: top;">Producent
+</td>
+<td><a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a> oraz <a href="/wiki/Web_Hypertext_Application_Technology_Working_Group" title="Web Hypertext Application Technology Working Group">WHATWG</a>
+</td></tr>
+<tr>
+<td style="background: #eeeeee; vertical-align: top;">Ostatnia wersja
+</td>
+<td>1.4938
+</td></tr>
+<tr>
+<td style="background: #eeeeee; vertical-align: top;">Typ
+</td>
+<td><a href="/wiki/J%C4%99zyk_znacznik%C3%B3w" title="Język znaczników">język znaczników</a>
+</td></tr>
+
+<tr class="noprint plainlinks" style="background:white; border-top:1px solid #aaa; text-align:center;">
+<td colspan="2" style="padding:0;">
+<table cellpadding="4" cellspacing="0" style="width:100%; margin:0px; background:transparent;">
+
+<tbody><tr>
+<td style="vertical-align:middle; width:30px;"><a href="https://commons.wikimedia.org/wiki/Category:HTML5" title="Commons"><img alt="Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/21px-Commons-logo.svg.png" decoding="async" width="21" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/31px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/42px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a>
+</td>
+<td style="vertical-align:middle;"><a href="https://commons.wikimedia.org/wiki/Category:HTML5" class="extiw" title="commons:Category:HTML5">Multimedia w Wikimedia Commons</a>
+</td></tr></tbody></table>
+</td></tr>
+
+<tr style="background-color:#eaecf0; text-align:center; border: 1px solid #aaa;">
+<td colspan="2"><a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/">Strona internetowa</a>
+</td></tr>
+</tbody></table>
+<p><b>HTML5</b> – język wykorzystywany do tworzenia i prezentowania <a href="/wiki/Strona_internetowa" title="Strona internetowa">stron internetowych</a> <a href="/wiki/World_Wide_Web" title="World Wide Web">www</a>. Jest rozwinięciem języka <a href="/wiki/HTML" title="HTML">HTML</a> 4 i jego <a href="/wiki/XML" title="XML">XML</a>-owej odmiany (<a href="/wiki/XHTML" title="XHTML">XHTML</a> 1), opracowywane w ramach prac grupy roboczej <a href="/wiki/Web_Hypertext_Application_Technology_Working_Group" title="Web Hypertext Application Technology Working Group">WHATWG</a> (<i>Web Hypertext Application Technology Working Group</i>) i <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>.
+</p><p>Jest to konkurencyjna specyfikacja w stosunku do specyfikacji <a href="/wiki/XHTML" title="XHTML">XHTML</a> 2<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, której rozwój został porzucony 2 lipca 2009 roku – wsparcie wszystkich środowisk i producentów przeglądarek ukierunkowane jest na HTML 5<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>. Nazwę można zapisywać jako <i>HTML 5</i> – jako wersję lub <i>HTML5</i> – jako nazwę. Prace nad specyfikacją zostały ukończone w <a href="/wiki/2014" title="2014">2014</a> roku – 28 października <a href="/wiki/Standard" title="Standard">standard</a> został oficjalnie wydany jako rekomendacja W3C<sup id="cite_ref-html5rec_4-0" class="reference"><a href="#cite_note-html5rec-4">[4]</a></sup>. Dwa lata później – 1 listopada <a href="/wiki/2016" title="2016">2016</a> roku – została wydana wersja HTML 5.1 jako oficjalna rekomendacja W3C<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>. Został wówczas także zaprezentowany szkic standardu HTML 5.2<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>.
+</p><p>Główna różnica pomiędzy HTML 5 a XHTML 2 polega na tym, że HTML 5 jest pisane z myślą o <a href="/wiki/Kompatybilno%C5%9B%C4%87_wsteczna" title="Kompatybilność wsteczna">kompatybilności wstecznej</a>, podczas gdy XHTML 2 zrywało z kompatybilnością.
+</p><p>HTML5 poza dodaniem nowych elementów, usprawniających tworzenie serwisów i aplikacji internetowych, doprecyzowuje wiele niejasności w specyfikacji HTML 4, dotyczących przede wszystkim sposobu obsługi błędów. Niejasności co do sposobu, w jaki przeglądarki powinny obsługiwać błędy w kodzie HTML są jedną z podstawowych przyczyn, dla której wiele serwisów internetowych, napisanych z naruszeniem specyfikacji, w różnych przeglądarkach działa w inny sposób – w niektórych działając, w innych nie. Dzięki HTML-owi 5 obsługa błędów ma być ta sama we wszystkich przeglądarkach, czyli <i>zły</i> element będzie działać w każdej przeglądarce albo żadnej.
+</p><p>HTML5 także stawia na semantykę. Element <code>&lt;div&gt;</code> traci na znaczeniu na rzecz <code>&lt;header&gt; &lt;main&gt; &lt;article&gt; &lt;aside&gt; &lt;footer&gt; &lt;nav&gt;</code>, a dodane zostają m.in. <code>&lt;canvas&gt; &lt;figure&gt; &lt;details&gt; &lt;summary&gt;</code>. Element <code>&lt;span&gt;</code> ma być mniej używany na rzecz <code>&lt;mark&gt; &lt;output&gt; &lt;var&gt; &lt;u&gt; &lt;s&gt;</code> (ostatnie dwa znaczniki były w HTML4 przestarzałe – <i>deprecated</i>).
+</p><p>Grupa pracująca nad HTML5 przyjęła inny sposób myślenia. Na przykład podkreślenie i przekreślenie podczas tworzenia HTML 4 uznano za elementy czysto prezentacyjne i przestarzałe – miały zostać usunięte w HTML5. Nawet kursywę i pogrubienie często próbowano zastąpić emfazą. W myśl tego nowe znaczniki liniowe nie powinny powstać. Gdyby sposób myślenia W3C się nie zmienił, nie powstałoby też kilka innych znaczników np. <code>&lt;progress&gt;</code>
+</p><p>HTML5 wysyłany jako XML to XHTML5.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="pl" dir="ltr"><h2>Spis treści</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Niektóre_różnice_w_stosunku_do_HTML_4"><span class="tocnumber">1</span> <span class="toctext">Niektóre różnice w stosunku do HTML 4</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Nowości_w_API"><span class="tocnumber">1.1</span> <span class="toctext">Nowości w API</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Nowe_metody_DOM"><span class="tocnumber">1.2</span> <span class="toctext">Nowe metody DOM</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Obsługa_błędów"><span class="tocnumber">1.3</span> <span class="toctext">Obsługa błędów</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Historia"><span class="tocnumber">2</span> <span class="toctext">Historia</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Proces_normalizacji"><span class="tocnumber">3</span> <span class="toctext">Proces normalizacji</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Rok_2008_–_Pierwszy_publiczny_projekt_roboczy"><span class="tocnumber">3.1</span> <span class="toctext">Rok 2008 – Pierwszy publiczny projekt roboczy</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Rok_2012"><span class="tocnumber">3.2</span> <span class="toctext">Rok 2012</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Rok_2014"><span class="tocnumber">3.3</span> <span class="toctext">Rok 2014</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Nowe_typy_znaczników"><span class="tocnumber">4</span> <span class="toctext">Nowe typy znaczników</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Canvas"><span class="tocnumber">4.1</span> <span class="toctext">Canvas</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Audio_i_wideo"><span class="tocnumber">4.2</span> <span class="toctext">Audio i wideo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Logo"><span class="tocnumber">5</span> <span class="toctext">Logo</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Odbiór"><span class="tocnumber">6</span> <span class="toctext">Odbiór</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Przypisy"><span class="tocnumber">7</span> <span class="toctext">Przypisy</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Linki_zewnętrzne"><span class="tocnumber">8</span> <span class="toctext">Linki zewnętrzne</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Niekt.C3.B3re_r.C3.B3.C5.BCnice_w_stosunku_do_HTML_4"></span><span class="mw-headline" id="Niektóre_różnice_w_stosunku_do_HTML_4">Niektóre różnice w stosunku do HTML 4</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Edytuj sekcję: Niektóre różnice w stosunku do HTML 4">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=1" title="Edytuj sekcję: Niektóre różnice w stosunku do HTML 4">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>Nowe tagi:</b> section, article, header, footer, nav, <a href="/wiki/Audio_i_Video_API" title="Audio i Video API">video</a>, audio, mark, progress, ...</li>
+<li><b>Nowe typy pól "input":</b> tel, search, url, email, datetime, date, month, week, time, datetime-local, number, range, color.</li>
+<li><b>Nowe atrybuty elementów formularzy:</b> autofocus, required, autocomplete, min, max, multiple, pattern, step, ...</li>
+<li>Możliwość osadzenia <a href="/wiki/MathML" title="MathML">MathML</a> i <a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a> bezpośrednio w dokumencie, zupełnie jak w <a href="/wiki/XHTML" title="XHTML">XHTML</a></li>
+<li>HTML 5 nie zawiera żadnych elementów prezentacyjnych</li>
+<li>HTML 5 nie jest podzielone na żadne tryby – nie ma elementów przestarzałych.</li></ul>
+<h3><span id="Nowo.C5.9Bci_w_API"></span><span class="mw-headline" id="Nowości_w_API">Nowości w <a href="/wiki/Application_Programming_Interface" class="mw-redirect" title="Application Programming Interface">API</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Edytuj sekcję: Nowości w API">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=2" title="Edytuj sekcję: Nowości w API">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a> zaproponowało większy nacisk na modułowość, określając specyficzne cechy oraz rozwój ich jako oddzielnych specyfikacji. Niektóre technologie, które zostały pierwotnie zdefiniowane w samym HTML5 są obecnie określone w odrębnych specyfikacjach:
+</p>
+<ul><li>Rysowanie 2D z nowym elementem canvas,</li>
+<li>WebGL (<a href="/wiki/Port_(oprogramowanie)" title="Port (oprogramowanie)">port</a> <a href="/wiki/OpenGL" title="OpenGL">OpenGL</a> dla przeglądarek),</li>
+<li>API dla odtwarzania audio i video,</li>
+<li>API dla aplikacji offline,</li>
+<li>API, pozwalające zarejestrować aplikację WEB jako protokół lub media_type,</li>
+<li>API edycji z atrybutem <i>contenteditable</i>,</li>
+<li>API przeciągnij i upuść, z atrybutem <i>draggable</i>,</li>
+<li>API do obsługi przycisku wstecz (History API),</li>
+<li>API pamięci (storage) pozwalające na przechowywanie danych pomiędzy przeładowaniami strony<sup id="cite_ref-storage_example_8-0" class="reference"><a href="#cite_note-storage_example-8">[8]</a></sup>,</li>
+<li>Microdata – przechowywanie danych w atrybutach (prefix: <b>data-</b>),</li>
+<li><a href="/wiki/Geolokalizacja" title="Geolokalizacja">Geolokalizacja</a>,</li>
+<li>Web Sockets (dwukierunkowa komunikacja z serwerem),</li>
+<li>Komunikacja między stronami (np. można wysyłać informację do strony znajdującej się w ramce).</li>
+<li>Nowa wersja <a href="/wiki/XMLHttpRequest" title="XMLHttpRequest">XMLHttpRequest</a> umożliwiająca <a href="/wiki/Upload" title="Upload">upload</a> plików oraz monitorowanie postępu</li>
+<li>File API – dostęp do systemu plików po stronie klienta</li>
+<li><a href="/wiki/Baza_danych" title="Baza danych">Baza danych</a> <a href="/wiki/SQL" title="SQL">SQL</a></li></ul>
+<p>Niektóre specyfikacje, które zostały pierwotnie opracowane zostały dostosowane jako rozszerzenie funkcji HTML5: <a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a>, <a href="/wiki/MathML" title="MathML">MathML</a>, <a href="/w/index.php?title=WAI-ARIA&amp;action=edit&amp;redlink=1" class="new" title="WAI-ARIA (strona nie istnieje)">WAI-ARIA</a>.
+</p>
+<h3><span class="mw-headline" id="Nowe_metody_DOM">Nowe metody <a href="/wiki/Obiektowy_model_dokumentu" title="Obiektowy model dokumentu">DOM</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Edytuj sekcję: Nowe metody DOM">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=3" title="Edytuj sekcję: Nowe metody DOM">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><tt>getElementsByClassName</tt></li>
+<li><tt>activeElement</tt>, <tt>hasFocus</tt></li>
+<li><tt>getSelection</tt></li>
+<li><tt>classList</tt> (<a href="/wiki/Wrapper" title="Wrapper">wrapper</a> dla <tt>className</tt>) z metodami: <tt>has()</tt>, <tt>add()</tt>, <tt>remove()</tt>, <tt>toggle()</tt></li>
+<li><tt>relList</tt> dla elementu <i>a</i></li>
+<li><tt>innerHTML</tt> dla window i document</li></ul>
+<h3><span id="Obs.C5.82uga_b.C5.82.C4.99d.C3.B3w"></span><span class="mw-headline" id="Obsługa_błędów">Obsługa błędów</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Edytuj sekcję: Obsługa błędów">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=4" title="Edytuj sekcję: Obsługa błędów">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Przeglądarki obsługujące HTML5 będą dostosowane do obsługi błędów w składni. HTML5 został zaprojektowany tak, by starsze przeglądarki bez problemu mogły ignorować nowe konstrukcje. W przeciwieństwie do starszego HTML 4.01 specyfikacja tej wersji zawiera szczegółowe instrukcje jak postępować z niepoprawną składnią, przez co strony z błędami będą wyświetlane w ten sam sposób w różnych przeglądarkach.
+</p>
+<h2><span class="mw-headline" id="Historia">Historia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Edytuj sekcję: Historia">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=5" title="Edytuj sekcję: Historia">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Grupa robocza <a href="/wiki/Web_Hypertext_Application_Technology_Working_Group" title="Web Hypertext Application Technology Working Group">WHATWG</a> rozpoczęła pracę nad nowym standardem w 2004 roku, jednocześnie HTML 4.01 nie było aktualizowane od 2000 roku. <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a> (W3C) koncentrowało się na przyszłych zmianach w XHTML 2.0. W 2009 roku W3C postanowiło, że XHTML 2.0 nie będzie już rozwijane. <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a> oraz <a href="/wiki/Web_Hypertext_Application_Technology_Working_Group" title="Web Hypertext Application Technology Working Group">WHATWG</a> obecnie pracują wspólnie nad rozwojem HTML5<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>.
+</p><p>HTML5 jest często porównywany do <a href="/wiki/Adobe_Flash" title="Adobe Flash">Adobe Flash</a>, jednak te dwie technologie są bardzo różne. Obie zawierają funkcje służące do odtwarzania plików audio i wideo na stronach internetowych, oraz stosują grafikę wektorową w formacie <a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a>. HTML5 sam nie może być jednak używany do animacji i interaktywności – musi być uzupełniony o <a href="/wiki/Kaskadowe_arkusze_styl%C3%B3w" title="Kaskadowe arkusze stylów">CSS3</a> oraz <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>.
+</p><p>Mimo, że HTML5 jest dobrze znany wśród programistów od lat, stał się tematem mediów głównego nurtu od około kwietnia 2010 roku<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> po tym, jak <a href="/wiki/Steve_Jobs" title="Steve Jobs">Steve Jobs</a>, ówczesny CEO firmy <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a> wystosował list publiczny zatytułowany „Rozważania na temat Flash’a”, w którym stwierdził, że „Flash nie jest już konieczny, aby obejrzeć film lub wyświetlać jakiekolwiek treści w internecie” oraz że „nowe, otwarte standardy stworzone w dobie urządzeń przenośnych, takich jak HTML5, wygrają”<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>. Wywołało to debatę w kręgach związanych z rozwojem sieci web. Niektórzy sugerowali, że deweloperzy muszą brać pod uwagę zmieniającą się obsługę przeglądarek, jak również inne różnice między HTML5 i Flash<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>. Na początku listopada 2011 roku Adobe ogłosiło, że zaprzestanie rozwoju Flasha dla urządzeń mobilnych oraz skupi swoje wysiłki w rozwijaniu narzędzi wykorzystujących HTML5<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>.
+</p>
+<h2><span class="mw-headline" id="Proces_normalizacji">Proces normalizacji</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Edytuj sekcję: Proces normalizacji">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=6" title="Edytuj sekcję: Proces normalizacji">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Fundacja_Mozilla" title="Fundacja Mozilla">Fundacja Mozilla</a> i <a href="/wiki/Opera_Software" title="Opera Software">Opera Software</a> przedstawiła swoje stanowisko na warsztatach <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a> w czerwcu 2004 roku<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>, koncentrując się na rozwoju technologii, które są kompatybilne wstecz z istniejącymi przeglądarkami<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>. Warsztat zakończył się głosowaniem: 8 za, 14 przeciw kontynuowaniu prac nad HTML<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>. W tym samym miesiącu praca oparta na tym stanowisku została przeniesiona do nowo utworzonej grupy roboczej <a href="/wiki/Web_Hypertext_Application_Technology_Working_Group" title="Web Hypertext Application Technology Working Group">WHATWG</a> , a drugi projekt, Web 1.0, został również ogłoszony<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>. Obie specyfikacje zostały później połączone w HTML5<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>. Specyfikacja HTML5 została przyjęta jako punkt wyjścia do pracy z nowym HTML w 2007 roku.
+</p>
+<h3><span id="Rok_2008_.E2.80.93_Pierwszy_publiczny_projekt_roboczy"></span><span class="mw-headline" id="Rok_2008_–_Pierwszy_publiczny_projekt_roboczy">Rok 2008 – Pierwszy publiczny projekt roboczy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Edytuj sekcję: Rok 2008 – Pierwszy publiczny projekt roboczy">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=7" title="Edytuj sekcję: Rok 2008 – Pierwszy publiczny projekt roboczy">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Web_Hypertext_Application_Technology_Working_Group" title="Web Hypertext Application Technology Working Group">WHATWG</a> opublikował pierwszy projekt roboczy 22 stycznia 2008 roku<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>. Niektóre elementy HTML5 zostały zaimplementowane w przeglądarkach pomimo nieukończenia projektu.
+</p>
+<h3><span class="mw-headline" id="Rok_2012">Rok 2012</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Edytuj sekcję: Rok 2012">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=8" title="Edytuj sekcję: Rok 2012">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>W lipcu 2012 <a href="/wiki/Web_Hypertext_Application_Technology_Working_Group" title="Web Hypertext Application Technology Working Group">WHATWG</a> oraz <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a> zdecydowały się na separację. <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a> kontynuowało prace nad specyfikacją HTML5, skupiając się na jednym, ostatecznym standardzie. Organizacja <a href="/wiki/Web_Hypertext_Application_Technology_Working_Group" title="Web Hypertext Application Technology Working Group">WHATWG</a> kontynuowała pracę z HTML5 udoskonalając ciągle funkcje. Nowe funkcje mogły być dodawane, ale nie mogły zostać usunięte<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup>.
+</p><p>We wrześniu 2012 <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a> zaproponowało<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>, aby wypuścić stabilną wersję HTML5 do końca 2014 roku, oraz specyfikację HTML 5.1 do końca 2016 roku.
+</p>
+<h3><span class="mw-headline" id="Rok_2014">Rok 2014</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Edytuj sekcję: Rok 2014">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=9" title="Edytuj sekcję: Rok 2014">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>28 października 2014 r. specyfikacja HTML5 osiągnęła status rekomendacji W3C<sup id="cite_ref-html5rec_4-1" class="reference"><a href="#cite_note-html5rec-4">[4]</a></sup>.
+</p>
+<h2><span id="Nowe_typy_znacznik.C3.B3w"></span><span class="mw-headline" id="Nowe_typy_znaczników">Nowe typy znaczników</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Edytuj sekcję: Nowe typy znaczników">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=10" title="Edytuj sekcję: Nowe typy znaczników">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Canvas">Canvas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Edytuj sekcję: Canvas">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=11" title="Edytuj sekcję: Canvas">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dd><div class="noprint relarticle mainarticle"><span class="nomobile"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/16px-Information_icon4.svg.png" decoding="async" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/24px-Information_icon4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/32px-Information_icon4.svg.png 2x" data-file-width="620" data-file-height="620" />&#160;</span><i>Osobny artykuł: <a href="/wiki/HTML5_Canvas" title="HTML5 Canvas">HTML5 Canvas</a>.</i></div></dd></dl>
+<p>Canvas jest elementem <a href="/wiki/HTML" title="HTML">HTML</a>, który może być użyty do rysowania grafik przy użyciu <a href="/wiki/J%C4%99zyk_skryptowy" title="Język skryptowy">skryptów</a> (zazwyczaj <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>). Na przykład może być użyty do rysowania wykresów, tworzenia kompozycji <a href="/wiki/Fotografia" title="Fotografia">fotografii</a> lub do <a href="/wiki/Film_animowany" title="Film animowany">animacji</a>.
+</p><p>Po raz pierwszy znacznik <code>&lt;canvas&gt;</code> został przedstawiony przez <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a> dla Mac OS X Dashboard i później zaimplementowany w <a href="/wiki/Safari_(przegl%C4%85darka)" title="Safari (przeglądarka)">Safari</a>. Przeglądarki oparte na silniku <a href="/wiki/Gecko" title="Gecko">Gecko</a> począwszy od wersji 1.8 (tj. Firefox 1.5 oraz późniejsze) obsługują ten nowy element. Jest również wspierany przez <a href="/wiki/Opera_(przegl%C4%85darka)" title="Opera (przeglądarka)">Operę</a> oraz <a href="/wiki/Internet_Explorer_9" title="Internet Explorer 9">Internet Explorera 9</a>.
+</p>
+<h3><span class="mw-headline" id="Audio_i_wideo">Audio i wideo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Edytuj sekcję: Audio i wideo">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=12" title="Edytuj sekcję: Audio i wideo">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dd><div class="noprint relarticle mainarticle"><span class="nomobile"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/16px-Information_icon4.svg.png" decoding="async" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/24px-Information_icon4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/32px-Information_icon4.svg.png 2x" data-file-width="620" data-file-height="620" />&#160;</span><i>Osobny artykuł: <a href="/wiki/HTML5_video" class="mw-redirect" title="HTML5 video">HTML5 video</a>.</i></div></dd></dl>
+<p>Znaczniki <code>&lt;audio&gt;</code> i <code>&lt;video&gt;</code> dają możliwość odtwarzania na stronie dźwięku i klipów wideo bez użycia dodatkowych wtyczek. Problem stanowi brak porozumienia producentów przeglądarek co do użycia tych samych kodeków w swoich produktach.
+</p>
+<h2><span class="mw-headline" id="Logo">Logo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Edytuj sekcję: Logo">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=13" title="Edytuj sekcję: Logo">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>W dniu 18 stycznia 2011 <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a> wprowadziło logo HTML5. W przeciwieństwie do innych odznak wydanych wcześniej przez <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a>, nie oznacza ono ważności lub zgodności z określonym standardem. Od 1 kwietnia 2011 roku jest to logo oficjalne<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>.
+</p>
+<h2><span id="Odbi.C3.B3r"></span><span class="mw-headline" id="Odbiór">Odbiór</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Edytuj sekcję: Odbiór">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=14" title="Edytuj sekcję: Odbiór">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Raport "Popularność HTML5 wśród firm Fortune 500" opublikowany w sierpniu 2013 roku wskazuje, że 153 koncerny z listy <a href="/wiki/Fortune_500" title="Fortune 500">Fortune 500</a> stosują na swoich stronach HTML5<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup>.
+</p>
+<h2><span class="mw-headline" id="Przypisy">Przypisy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Edytuj sekcję: Przypisy">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=15" title="Edytuj sekcję: Przypisy">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="do-not-make-smaller refsection"><div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.w3.org/html/wg/"><i>W3C HTML Media Extensions Working Group</i></a>, www.w3.org<span class="accessdate"> [dostęp 2017-11-23]</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft.gengre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=W3C+HTML+Media+Extensions+Working+Group&amp;rft_id=http%3A%2F%2Fwww.w3.org%2Fhtml%2Fwg%2F" style="display:none">&#160;</span> <span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://blog.whatwg.org/faq/#why-html5-xhtml2">Faq – Whatwg Wiki</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://blog.whatwg.org/faq/#browser-support-html5">Faq – Whatwg Wiki</a></span>
+</li>
+<li id="cite_note-html5rec-4"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-html5rec_4-0">a</a></sup> <sup><a href="#cite_ref-html5rec_4-1">b</a></sup></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.w3.org/blog/news/archives/4167">HTML5 is a W3C Recommendation</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.&#32;2014-10-28.&#32;[dostęp 2014-10-28].</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="https://www.w3.org/TR/2016/REC-html51-20161101/"><i>HTML 5.1 becomes W3C Recommendation</i></a>, www.w3.org<span class="accessdate"> [dostęp 2017-02-26]</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft.gengre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.btitle=HTML+5.1+becomes+W3C+Recommendation&amp;rft_id=https%3A%2F%2Fwww.w3.org%2FTR%2F2016%2FREC-html51-20161101%2F" style="display:none">&#160;</span> <span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dobreprogramy.pl/W3C-HTML5-zostanie-ukonczony-w-2014-roku-5.1-w-2016,Aktualnosc,34340.html">"W3C: HTML5 zostanie ukończony w 2014 roku, 5.1 w 2016"</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://dev.w3.org/html5/decision-policy/html5-2014-plan.html#plan">Plan 2014</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.&#32;<a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a>.&#32;[dostęp 2014-03-10].</span></span>
+</li>
+<li id="cite_note-storage_example-8"><span class="mw-cite-backlink"><a href="#cite_ref-storage_example_8-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://html5demos.com/storage">Demo</a>, przykład wykorzystania sessionStorage oraz localStorage.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.w3.org/2009/06/xhtml-faq.html">Frequently Asked Questions about the future of XHTML</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.foxnews.com/tech/2010/04/29/flash-iphone-apples-steve-jobs-finally-explains/">No Flash on the iPhone? Apple's Steve Jobs Finally Explains Why</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://techland.time.com/2010/04/29/steve-jobs-flash-is-no-longer-necessary-and-other-musings/">Steve Jobs: ‘Flash is No Longer Necessary’ and Other Musings</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.fastcompany.com/1633336/steve-jobs-adobes-flash-old-pc-history-open-web-future">Steve Jobs: Adobe's Flash is old PC history, open web is the future</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.apple.com/hotnews/thoughts-on-flash/">Thoughts on Flash</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.lyquix.com/blog-and-news/is-html5-replacing-flash">Is HTML5 replacing Flash?</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://blogs.adobe.com/flashplayer/2011/11/flash-to-focus-on-pc-browsing-and-mobile-apps-adobe-to-more-aggressively-contribute-to-html5.html">Flash to Focus on PC Browsing and Mobile Apps; Adobe to More Aggressively Contribute to HTML5</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.w3.org/2004/04/webapps-cdf-ws/papers/opera.html">Position Paper for the W3C Workshop on Web Applications and Compound Documents</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.w3.org/2004/04/webapps-cdf-ws/minutes-20040601.html#topic18.1">W3C Workshop on Web Applications and Compound Documents (Day 1) Jun 1, 2004</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.w3.org/2004/04/webapps-cdf-ws/minutes-20040602.html#topic28.1">W3C Workshop on Web Applications and Compound Documents (Day 2) Jun 2, 2004</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="https://lists.whatwg.org/htdig.cgi/whatwg-whatwg.org/2004-June/000005.html">[whatwg</a> WHAT open mailing list announcement]&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="https://blog.whatwg.org/this-week-in-html-5-episode-5">This Week in HTML 5 – Episode 5</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/">A vocabulary and associated APIs for HTML and XHTML</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.w3.org/html/wg/drafts/html/master/">A vocabulary and associated APIs for HTML and XHTML</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://dev.w3.org/html5/decision-policy/html5-2014-plan.html#plan">Plan 2014</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.w3.org/html/logo/faq.html">W3C HTML5 Logo FAQ</a>&#32;<span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span>.</span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.incore.com/Fortune500HTML5/#infographic">HTML5 Popularity Among Fortune 500 Companies</a>". INCORE. Pobrano 11 września 2013.</span>
+</li>
+</ol></div></div>
+<h2><span id="Linki_zewn.C4.99trzne"></span><span class="mw-headline" id="Linki_zewnętrzne">Linki zewnętrzne</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HTML5&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="Edytuj sekcję: Linki zewnętrzne">edytuj</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=HTML5&amp;action=edit&amp;section=16" title="Edytuj sekcję: Linki zewnętrzne">edytuj kod</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox noprint plainlinks" cellpadding="4">
+<tbody><tr>
+<td style="vertical-align:middle; text-align:center; width:30px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/21px-Commons-logo.svg.png" decoding="async" width="21" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/31px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/42px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" />
+</td>
+<td style="line-height:normal; vertical-align:middle; text-align:center;">W <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> znajdują się multimedia związane z tematem:<br /><b><a class="external text" href="https://commons.wikimedia.org/wiki/Category:HTML5?uselang=pl">HTML5</a></b>
+</td></tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.microsoftvirtualacademy.com/training-topics/html5_topic_page_po">Kursy dotyczące tworzenia w HTML5</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.whatwg.org/specs/web-apps/current-work/">WHATWG</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.w3.org/html/wg/html5/">Projekt na W3C</a></li>
+<li><a rel="nofollow" class="external text" href="http://dev.opera.com/articles/view/the-first-working-draft-of-html-5-is-her/">The first working draft of HTML 5 is here!</a></li>
+<li><a rel="nofollow" class="external text" href="http://slcanvas.codeplex.com/">Skrypt pozwalający na implementację Canvas w ramach Silverlight dla obsługi przez IE</a></li>
+<li><a rel="nofollow" class="external text" href="http://blog.tiger.com.pl/www/html5-2/">Artykuł w jęz. polskim omawiający nowości w HTML5</a></li>
+<li><a rel="nofollow" class="external text" href="http://msdn.microsoft.com/pl-pl/library/przeglad-nowosci-html5-w-internet-explorer-9.aspx">Przegląd nowości w HTML5</a></li>
+<li><a rel="nofollow" class="external text" href="http://ie.microsoft.com/testdrive/Views/SiteMap/Default.html">Przykłady wykorzystania HTML5</a> <span class="lang-list">(<abbr title="Treść w języku angielskim (English)">ang.</abbr>)</span></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20191114224843
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.408 seconds
+Real time usage: 0.542 seconds
+Preprocessor visited node count: 4641/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 39056/2097152 bytes
+Template argument size: 7050/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 14781/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.246/10.000 seconds
+Lua memory usage: 5.2 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  484.647      1 -total
+ 49.57%  240.231      1 Szablon:Przypisy
+ 33.78%  163.729     18 Szablon:Cytuj_stronę
+ 33.74%  163.519      1 Szablon:Format_pliku_infobox
+ 24.02%  116.404      2 Szablon:Infobox_grafika
+  9.71%   47.069      2 Szablon:Cytuj
+  8.77%   42.517     37 Szablon:Lang
+  5.40%   26.170      2 Szablon:Osobny_artykuł
+  5.25%   25.450      2 Szablon:Infobox_nagłówek
+  4.34%   21.027      2 Szablon:Dmbox
+-->
+
+<!-- Saved in parser cache with key plwiki:stable-pcache:idhash:1011222-0!canonical and timestamp 20191114224843 and revision id 57663596
+ -->
+</div><noscript><img src="//pl.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Źródło: „<a dir="ltr" href="https://pl.wikipedia.org/w/index.php?title=HTML5&amp;oldid=57663596">https://pl.wikipedia.org/w/index.php?title=HTML5&amp;oldid=57663596</a>”</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Specjalna:Kategorie" title="Specjalna:Kategorie">Kategoria</a>: <ul><li><a href="/wiki/Kategoria:HTML" title="Kategoria:HTML">HTML</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Menu nawigacyjne</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Narzędzia osobiste</h3>
+						<ul>
+							<li id="pt-anonuserpage">Nie jesteś zalogowany</li><li id="pt-anontalk"><a href="/wiki/Specjalna:Moja_dyskusja" title="Dyskusja użytkownika dla tego adresu IP [n]" accesskey="n">Dyskusja</a></li><li id="pt-anoncontribs"><a href="/wiki/Specjalna:M%C3%B3j_wk%C5%82ad" title="Lista edycji wykonanych z tego adresu IP [y]" accesskey="y">Edycje</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&amp;returnto=HTML5" title="Zachęcamy do stworzenia konta i zalogowania, ale nie jest to obowiązkowe.">Utwórz konto</a></li><li id="pt-login"><a href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=HTML5" title="Zachęcamy do zalogowania się, choć nie jest to obowiązkowe. [o]" accesskey="o">Zaloguj się</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Przestrzenie nazw</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><a href="/wiki/HTML5" title="Zobacz stronę treści [c]" accesskey="c">Artykuł</a></li><li id="ca-talk"><a href="/wiki/Dyskusja:HTML5" rel="discussion" title="Dyskusja o zawartości tej strony [t]" accesskey="t">Dyskusja</a></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Warianty</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Widok</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><a href="/wiki/HTML5">Czytaj</a></li><li id="ca-ve-edit" class="collapsible"><a href="/w/index.php?title=HTML5&amp;veaction=edit" title="Edytuj tę stronę [v]" accesskey="v">Edytuj</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=HTML5&amp;action=edit" title="Edytuj tę stronę [e]" accesskey="e">Edytuj kod źródłowy</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=HTML5&amp;action=history" title="Starsze wersje tej strony. [h]" accesskey="h">Historia i autorzy</a></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Więcej</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Szukaj</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Przeszukaj Wikipedię" title="Przeszukaj Wikipedię [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Specjalna:Szukaj" name="title"/><input type="submit" name="fulltext" value="Szukaj" title="Szukaj wprowadzonego tekstu w treści stron" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Przejdź" title="Przejdź do strony o dokładnie takim tytule, o ile istnieje" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Strona główna"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Nawigacja</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna" title="Przejdź na stronę główną [z]" accesskey="z">Strona główna</a></li><li id="n-randompage"><a href="/wiki/Specjalna:Losowa_strona" title="Załaduj losową stronę [x]" accesskey="x">Losuj artykuł</a></li><li id="n-Kategorie"><a href="/wiki/Portal:Kategorie_G%C5%82%C3%B3wne">Kategorie artykułów</a></li><li id="n-Featured-articles"><a href="/wiki/Wikipedia:Wyr%C3%B3%C5%BCniona_zawarto%C5%9B%C4%87_Wikipedii">Najlepsze artykuły</a></li><li id="n-FAQ"><a href="/wiki/Pomoc:FAQ">Częste pytania (FAQ)</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-zmiany" aria-labelledby="p-zmiany-label">
+			<h3 id="p-zmiany-label">Dla czytelników</h3>
+			<div class="body">
+								<ul>
+					<li id="n-czytelnicy"><a href="/wiki/Wikipedia:O_Wikipedii">O Wikipedii</a></li><li id="n-bug_in_article"><a href="/wiki/Wikipedia:Zg%C5%82o%C5%9B_b%C5%82%C4%85d_w_artykule">Zgłoś błąd</a></li><li id="n-bad-image"><a href="/wiki/Wikipedia:Zg%C5%82oszone_grafiki">Zgłoś błąd w pliku</a></li><li id="n-contact"><a href="/wiki/Wikipedia:Kontakt_z_wikipedystami">Kontakt</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_pl.wikipedia.org&amp;uselang=pl" title="Pomóż nam">Wspomóż Wikipedię</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-edytorzy" aria-labelledby="p-edytorzy-label">
+			<h3 id="p-edytorzy-label">Dla wikipedystów</h3>
+			<div class="body">
+								<ul>
+					<li id="n-pierwsze-kroki"><a href="/wiki/Pomoc:Pierwsze_kroki">Pierwsze kroki</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Portal_wikipedyst%C3%B3w" title="O projekcie – co możesz zrobić, gdzie możesz znaleźć informacje">Portal wikipedystów</a></li><li id="n-Noticeboard"><a href="/wiki/Wikipedia:Tablica_og%C5%82osze%C5%84">Ogłoszenia</a></li><li id="n-Guidelines"><a href="/wiki/Wikipedia:Zasady">Zasady</a></li><li id="n-helppage-name"><a href="/wiki/Pomoc:Spis_tre%C5%9Bci">Pomoc</a></li><li id="n-recentchanges"><a href="/wiki/Specjalna:Ostatnie_zmiany" title="Lista ostatnich zmian w Wikipedii. [r]" accesskey="r">Ostatnie zmiany</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Narzędzia</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Specjalna:Linkuj%C4%85ce/HTML5" title="Pokaż listę wszystkich stron linkujących do tej strony [j]" accesskey="j">Linkujące</a></li><li id="t-recentchangeslinked"><a href="/wiki/Specjalna:Zmiany_w_linkowanych/HTML5" rel="nofollow" title="Ostatnie zmiany w stronach, do których ta strona linkuje [k]" accesskey="k">Zmiany w linkowanych</a></li><li id="t-upload"><a href="//pl.wikipedia.org/wiki/Wikipedia:Prześlij_plik" title="Prześlij pliki [u]" accesskey="u">Prześlij plik</a></li><li id="t-specialpages"><a href="/wiki/Specjalna:Strony_specjalne" title="Lista wszystkich stron specjalnych [q]" accesskey="q">Strony specjalne</a></li><li id="t-permalink"><a href="/w/index.php?title=HTML5&amp;oldid=57663596" title="Stały link do tej wersji strony">Link do tej wersji</a></li><li id="t-info"><a href="/w/index.php?title=HTML5&amp;action=info" title="Więcej informacji na temat tej strony">Informacje o tej stronie</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2053" title="Link do powiązanego elementu w repozytorium danych [g]" accesskey="g">Element Wikidanych</a></li><li id="t-cite"><a href="/w/index.php?title=Specjalna:Cytuj&amp;page=HTML5&amp;id=57663596" title="Informacja o tym jak należy cytować tę stronę">Cytowanie tego artykułu</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">W innych projektach</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:HTML5" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Drukuj lub eksportuj</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=book_creator&amp;referer=HTML5">Utwórz książkę</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Specjalna:ElectronPdf&amp;page=HTML5&amp;action=show-download-screen">Pobierz jako PDF</a></li><li id="t-print"><a href="/w/index.php?title=HTML5&amp;printable=yes" title="Wersja do wydruku [p]" accesskey="p">Wersja do druku</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">W innych językach</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D8%AA%D8%B4_%D8%AA%D9%8A_%D8%A5%D9%85_%D8%A5%D9%84_5" title="إتش تي إم إل 5 – arabski" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%AE%E0%A6%8F%E0%A6%B2_%E0%A7%AB" title="এইচটিএমএল ৫ – bengalski" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/HTML5" title="HTML5 – bułgarski" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/HTML_5" title="HTML 5 – kataloński" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/HTML5" title="HTML5 – czeski" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/HTML5" title="HTML5 – duński" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/HTML5" title="HTML5 – niemiecki" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/HTML5" title="HTML5 – estoński" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/HTML5" title="HTML5 – grecki" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/HTML5" title="HTML5 – angielski" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/HTML5" title="HTML5 – hiszpański" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/HTML5" title="HTML5 – esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/HTML5" title="HTML5 – baskijski" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%DA%86%E2%80%8C%D8%AA%DB%8C%E2%80%8C%D8%A7%D9%85%E2%80%8C%D8%A7%D9%84%DB%B5" title="اچ‌تی‌ام‌ال۵ – perski" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/HTML5" title="HTML5 – francuski" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/HTML5" title="HTML5 – galicyjski" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/HTML5" title="HTML5 – koreański" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/HTML5" title="HTML5 – ormiański" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%9A%E0%A4%9F%E0%A5%80%E0%A4%8F%E0%A4%AE%E0%A4%8F%E0%A4%B2_%E0%A4%AB%E0%A4%BE%E0%A4%87%E0%A4%B5" title="एचटीएमएल फाइव – hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/HTML5" title="HTML5 – górnołużycki" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/HTML5" title="HTML5 – indonezyjski" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/HTML5" title="HTML5 – islandzki" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/HTML5" title="HTML5 – włoski" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/HTML5" title="HTML5 – hebrajski" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/HTML5" title="HTML5 – kirgiski" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/HTML5" title="HTML5 – łotewski" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/HTML5" title="HTML5 – węgierski" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/HTML5" title="HTML5 – malgaski" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%8E%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%8D.%E0%B4%9F%E0%B4%BF.%E0%B4%8E%E0%B4%82.%E0%B4%8E%E0%B5%BD._5" title="എച്ച്.ടി.എം.എൽ. 5 – malajalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/HTML5" title="HTML5 – malajski" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/HTML5" title="HTML5 – niderlandzki" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/HTML5" title="HTML5 – japoński" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/HTML5" title="HTML5 – khmerski" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/HTML5" title="HTML5 – portugalski" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/HTML5" title="HTML5 – rumuński" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/HTML5" title="HTML5 – rosyjski" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/HTML_5" title="HTML 5 – albański" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/HTML5" title="HTML5 – słowacki" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/HTML5" title="HTML5 – słoweński" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/HTML5" title="HTML5 – serbski" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/HTML5" title="HTML5 – serbsko-chorwacki" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/HTML5" title="HTML5 – fiński" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/HTML5" title="HTML5 – szwedzki" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B9%E0%B1%86%E0%B0%9A%E0%B1%8D%E2%80%8C%E0%B0%9F%E0%B0%BF%E0%B0%8E%E0%B0%AE%E0%B1%8D%E0%B0%8E%E0%B0%B2%E0%B1%8D5(HTML5)" title="హెచ్‌టిఎమ్ఎల్5(HTML5) – telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AD%E0%B8%8A%E0%B8%97%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B9%81%E0%B8%AD%E0%B8%A55" title="เอชทีเอ็มแอล5 – tajski" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/HTML5" title="HTML5 – turecki" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/HTML5" title="HTML5 – ukraiński" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/HTML5" title="HTML5 – wietnamski" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/HTML5" title="HTML5 – wu" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/HTML5" title="HTML5 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/HTML5" title="HTML5 – chiński" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2053#sitelinks-wikipedia" title="Edytuj linki pomiędzy wersjami językowymi" class="wbc-editpage">Edytuj linki</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Tę stronę ostatnio edytowano 4 paź 2019, 14:24.</li>
+								<li id="footer-info-copyright">Tekst udostępniany na <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">licencji Creative Commons: uznanie autorstwa, na tych samych warunkach</a>, z możliwością obowiązywania dodatkowych ograniczeń.
+Zobacz szczegółowe informacje o <a href="https://foundation.wikimedia.org/wiki/Warunki_korzystania">warunkach korzystania</a>.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Polityka prywatności</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:O_Wikipedii" title="Wikipedia:O Wikipedii">O Wikipedii</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Korzystasz_z_Wikipedii_tylko_na_w%C5%82asn%C4%85_odpowiedzialno%C5%9B%C4%87" title="Wikipedia:Korzystasz z Wikipedii tylko na własną odpowiedzialność">Korzystasz z Wikipedii tylko na własną odpowiedzialność</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Dla deweloperów</a></li>
+								<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/v2/#/pl.wikipedia.org">Statystyki</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Komunikat na temat ciasteczek</a></li>
+								<li id="footer-places-mobileview"><a href="//pl.m.wikipedia.org/w/index.php?title=HTML5&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Wersja mobilna</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.542","ppvisitednodes":{"value":4641,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":39056,"limit":2097152},"templateargumentsize":{"value":7050,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":14781,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  484.647      1 -total"," 49.57%  240.231      1 Szablon:Przypisy"," 33.78%  163.729     18 Szablon:Cytuj_stronę"," 33.74%  163.519      1 Szablon:Format_pliku_infobox"," 24.02%  116.404      2 Szablon:Infobox_grafika","  9.71%   47.069      2 Szablon:Cytuj","  8.77%   42.517     37 Szablon:Lang","  5.40%   26.170      2 Szablon:Osobny_artykuł","  5.25%   25.450      2 Szablon:Infobox_nagłówek","  4.34%   21.027      2 Szablon:Dmbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.246","limit":"10.000"},"limitreport-memusage":{"value":5454048,"limit":52428800},"limitreport-logs":"Brak zalecanych danych dla 'P18'\nbigImage = table#1 {\n  \"[[Plik:HTML5 Firefox video controls.png|240x240px|alt=ilustracja]]\",\n}\n"},"cachereport":{"origin":"mw1319","timestamp":"20191114224843","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"HTML5","url":"https:\/\/pl.wikipedia.org\/wiki\/HTML5","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2053","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2053","author":{"@type":"Organization","name":"Wsp\u00f3\u0142tw\u00f3rcy projekt\u00f3w Fundacji Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-07-13T07:35:07Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/61\/HTML5_logo_and_wordmark.svg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":132,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

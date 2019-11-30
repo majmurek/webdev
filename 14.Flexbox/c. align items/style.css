@@ -1,0 +1,13 @@
+.box {
+    width: 100px;
+    background-color: aquamarine;
+    margin: 5px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: lightgray;
+    height: 500px;
+    align-items: stretch;
+}
